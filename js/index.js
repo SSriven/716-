@@ -1,6 +1,4 @@
-/**
- * Created by www.it666.com.
- */
+﻿
 (function (window) {
     // 1. 调用选项卡
     tab();
