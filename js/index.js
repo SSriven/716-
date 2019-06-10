@@ -43,7 +43,7 @@
         $("mask").style.display = "none";
         $("login").style.display = "none";
         $("userInfo").style.display = "block";
-    }
+    };
     // 6. 广告轮播
     // bannerAutoPlay();
 })(window);
